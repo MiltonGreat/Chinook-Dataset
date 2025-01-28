@@ -54,6 +54,8 @@ The album Greatest Hits has the highest track count, with 57 tracks.
 ### Visualizations
 Total Sales by Genre
 
+![screenshot-localhost_8888-2025 01 28-10_36_17](https://github.com/user-attachments/assets/404015ba-208b-436e-8c09-b4e462c9806a)
+
 ### Source
 
-https://www.kaggle.com/datasets/ranasabrii/chinook
+Dataset: [Chinook Dataset on Kaggle](https://www.kaggle.com/datasets/ranasabrii/chinook)
